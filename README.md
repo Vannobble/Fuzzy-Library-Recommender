@@ -93,7 +93,7 @@ Harry Potter 1     | J.K. Rowling      | Fantasy, Magic   | 1997 | 4.5    | 13.0
 
 ```
 ├── Filtering_data.py     # Main script
-├── data.csv              # Dataset (from Kaggle)
+├── filtered_data.csv     # Dataset (from Kaggle)
 └── README.md             # Project documentation
 ```
 
