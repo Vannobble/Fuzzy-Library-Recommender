@@ -69,8 +69,6 @@ pip install numpy pandas scikit-fuzzy
 python main.py
 ```
 
-> ⚠ Ensure you have the `filtered_data.csv` file (downloaded from Kaggle) in the same directory or update the path in the code accordingly.
-
 ## 🧾 Example Input
 
 ```bash
